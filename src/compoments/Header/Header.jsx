@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import headerImage from './header_img.png'; // Image in the same folder as the component
+import headerImage from './header_img.png';
 
 const Header = () => {
   return (
